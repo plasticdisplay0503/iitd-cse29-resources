@@ -6,7 +6,6 @@ Notes, assignments, references, and links for IITD CSE (Batch of 2029).
 > Do not submit any content here as part of official coursework unless permitted.
 
 >## Acknowledgements
-
 >This repository consolidates resources collected from seniors' shared drives,
 >GitHub repositories, and personal notes.  
 >All credit for original material belongs to the respective authors.
@@ -36,14 +35,12 @@ Notes, assignments, references, and links for IITD CSE (Batch of 2029).
 
 
 
-## Contribution
-'''
-- Har Asish Arora Sir
-- Chinmay Mittal Sir
-- Aditya Sir
-'''
+## Acknowledgements
 
-Pull requests welcome. Follow folder structure.
+This repository consolidates resources collected from seniors' shared drives,
+GitHub repositories, and personal notes.  
+All credit for original material belongs to the respective authors.
+
 
 ## Folder Structure
 
