@@ -35,13 +35,6 @@ Notes, assignments, references, and links for IITD CSE (Batch of 2029).
 
 
 
-## Acknowledgements
-
-This repository consolidates resources collected from seniors' shared drives,
-GitHub repositories, and personal notes.  
-All credit for original material belongs to the respective authors.
-
-
 ## Folder Structure
 
 > ```
