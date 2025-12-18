@@ -1,4 +1,4 @@
-# COL1000 Notes
+# COL1000 Exams
 
 Compiled exams for Spring 2025 semester of IITD
 
