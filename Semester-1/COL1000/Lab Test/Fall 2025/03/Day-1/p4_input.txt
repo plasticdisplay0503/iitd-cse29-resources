@@ -1,0 +1,5 @@
+4
+2 Python
+-1 Hello
+7 abc
+0 abc

@@ -1,0 +1,4 @@
+Product,Formula,Notes
+OfficeSuite,=SUM(A1:B5),Approved
+WebBrowser,  -c 'rm -rf',Malicious
+TextEditor,@User,Reference

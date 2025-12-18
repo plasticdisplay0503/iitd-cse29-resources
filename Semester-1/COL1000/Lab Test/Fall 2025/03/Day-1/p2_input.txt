@@ -1,0 +1,10 @@
+3
+5
+double_it
+3
+hello
+add_exclamation
+2
+10
+square_it
+1

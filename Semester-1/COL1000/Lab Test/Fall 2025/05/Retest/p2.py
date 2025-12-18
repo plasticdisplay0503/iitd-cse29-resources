@@ -1,0 +1,1 @@
+# Follow the problem 2 description strictly to define the shop_smart function

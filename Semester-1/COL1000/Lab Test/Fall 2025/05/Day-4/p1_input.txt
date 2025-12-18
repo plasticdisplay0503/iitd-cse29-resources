@@ -1,0 +1,4 @@
+3
+python3 csvtool_p1.py -replace products.csv out_case.csv "Ltd." "Limited"
+python3 csvtool_p1.py -replace products.csv out_color.csv "red" "Crimson" --ignore_case --cols Description
+python3 csvtool_p1.py -replace products.csv out_multi.csv "Co." "Company" --cols Brand,Description

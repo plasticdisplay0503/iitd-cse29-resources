@@ -1,0 +1,6 @@
+User,Comment,Action
+Alice,This is a great post!,None
+Bob,=SUM(A1:B10),FormulaInjection
+Charlie,  - Executable script,PotentialAttack
+Diana,Safe message,None
+Eve,@mention_user,Reference

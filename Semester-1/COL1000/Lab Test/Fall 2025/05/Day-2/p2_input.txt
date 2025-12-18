@@ -1,0 +1,3 @@
+2
+python3 csvtool_p2.py -dedupe users.csv Email clean_users.csv last
+python3 csvtool_p2.py -dedupe users.csv Name unique_names.csv first

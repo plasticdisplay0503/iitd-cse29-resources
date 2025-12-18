@@ -1,0 +1,4 @@
+3
+python3 csvtool_p1.py -sanitize student_data_p1.csv sanitized_escape.csv escape
+python3 csvtool_p1.py -sanitize student_data_p1.csv sanitized_reject.csv reject
+python3 csvtool_p1.py -sanitize student_data_p1.csv sanitized_encode.csv encode

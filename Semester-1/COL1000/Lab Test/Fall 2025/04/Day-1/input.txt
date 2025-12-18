@@ -1,0 +1,25 @@
+hello world test
+bad word!
+@123
+python programming
+data structures
+algorithm design
+functional code
+machine learning
+a
+hi
+bye
+ok
+hello    world     test
+  python   code
+data      structures
+a
+ab
+abc
+abcd
+abcdefgh
+hello world bad123
+valid test @invalid
+python code $$$
+crash
+code unknown

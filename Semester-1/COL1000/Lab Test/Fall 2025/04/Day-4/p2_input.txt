@@ -1,0 +1,11 @@
+10
+is_even(5)
+is_positive(0)
+is_even(10)
+has_char_e(elephant)
+is_even(30)
+is_positive(-1)
+is_positive(3)
+has_char_e(in)
+is_even(0)
+has_char_e(apple)

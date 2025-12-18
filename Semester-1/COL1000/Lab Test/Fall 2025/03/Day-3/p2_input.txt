@@ -1,0 +1,5 @@
+2
+doubler add_ten squarer
+2
+add_ten doubler
+5

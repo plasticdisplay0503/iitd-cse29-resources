@@ -1,0 +1,9 @@
+8
+is_even(4)
+add(10, 20)
+is_positive(-5)
+concat("hello", " ", "world")
+is_even(7)
+add(1, 1)
+is_positive(100)
+concat("test")

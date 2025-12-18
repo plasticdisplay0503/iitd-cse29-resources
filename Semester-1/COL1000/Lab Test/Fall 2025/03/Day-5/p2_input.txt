@@ -1,0 +1,15 @@
+2
+is_even
+square_it
+5
+1
+2
+3
+4
+5
+has_char_e
+to_uppercase
+3
+apple
+banana
+grape

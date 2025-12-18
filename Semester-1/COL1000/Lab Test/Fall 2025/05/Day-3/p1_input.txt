@@ -1,0 +1,3 @@
+2
+python3 csvtool_p1.py -filter student_data_p1.csv Department==Engineering
+python3 csvtool_p1.py -filter student_data_p1.csv Age>=32 Salary<90000

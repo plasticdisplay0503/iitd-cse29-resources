@@ -1,0 +1,1 @@
+# Follow the problem 1 description strictly to define the closest_pair function

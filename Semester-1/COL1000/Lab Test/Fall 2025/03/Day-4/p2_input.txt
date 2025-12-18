@@ -1,0 +1,5 @@
+2
+3
+increment double_it square_it
+-5
+negate add_ten
