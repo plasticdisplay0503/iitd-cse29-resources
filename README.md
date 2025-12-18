@@ -12,22 +12,45 @@ Notes, assignments, references, and links for IITD CSE (Batch of 2029).
 - Tutorials
 - External Links
 
+
+## Courses
+Some course might not be actually taught for CSE-29 batch but are included to help others.
+### Semester 1
+- **COL1000** — Introduction to Programming
+- **MTL1001** — Calculus
+- **PYL1001** — Physics-Electrodynamics
+- **MEP1000** — Engineering drawing
+
+### Semester 2 *(to be updated)*
+- **COL1002** — Discrete Maths
+- **MTL1002** — Linear Algrebra
+- **CML1001** — Physical Chemistry
+- **ELL1205** — Signals and Systems
+- **ELL1000** — Introduction to Electrical Engineering
+
+
 ## Contribution
+'''
+- Har Asish Arora Sir
+- Chinmay Mittal Sir
+- Aditya Sir
+'''
+
 Pull requests welcome. Follow folder structure.
 
 ## Folder Structure
 
 > ```
 > /
-> ├── COL100/
+> ├── COL1000/
 > │   ├── Notes/
 > │   ├── Assignments/
 > │   └── Tutorials/
-> ├── MTL100/
+> ├── MTL1001/
 > │   ├── Notes/
 > │   ├── Assignments/
 > │   └── Tutorials/
-> ├── PYL100/
+> ├── PYL1001/
 > │   ├── Notes/
 > │   ├── Assignments/
 > │   └── Tutorials/
