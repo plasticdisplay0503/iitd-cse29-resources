@@ -15,3 +15,13 @@ Notes, assignments, references, and links for IITD CSE (Batch of 2029).
 ## Contribution
 Pull requests welcome. Follow folder structure.
 
+>## Folder Structure
+>/
+>├── COL100/
+>│   ├── Notes/
+>│   ├── Assignments/
+>│   └── Tutorials/
+>├── MTL100/
+>├── PYL100/
+>└── External/
+
