@@ -20,13 +20,13 @@ Notes, assignments, references, and links for IITD CSE (Batch of 2029).
 
 ## Courses
 
-### Semester 1
+### Semester 1 *(to be updated*
 - **COL1000** — Introduction to Programming  
 - **MTL1001** — Calculus  
 - **PYL1001** — Physics  
 - **MEP1000** — Engineering Drawing  
 
-### Semester 2 *(as per current curriculum)*
+### Semester 2 *(to be updated)*
 - **COL1002** — Discrete Mathematics  
 - **MTL1002** — Linear Algebra  
 - **ELL1205** — Signals and Systems  
