@@ -7,3 +7,7 @@ Compiled lecture notes for COL1000.
 - SVS
 
 Shared for educational purposes only.
+
+## Contents
+- Priyanka-Golia: Lecture-wise notes (L1–L30)
+- SVS: Alternative explanations and summaries
